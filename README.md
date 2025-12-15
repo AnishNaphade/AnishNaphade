@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://raw.githubusercontent.com/AnishNaphade/AnishNaphade/main/assets/stats.png)
+
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-![Profile Example](https://raw.githubusercontent.com/AnishNaphade/AnishNaphade/main/assets/profile.png)
+
 
 </div>
 
