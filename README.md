@@ -85,8 +85,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnishNaphade-181717?style=for-the-badge&logo=github)](https://github.com/AnishNaphade)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anish-naphade)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishnaphade@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anishnaphade)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishnaphade@gmail.com)
 
 
 
