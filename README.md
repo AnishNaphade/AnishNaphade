@@ -55,13 +55,7 @@
 
 ---
 
-<div align="center">
 
-
-
-</div>
-
----
 
 ## 🏆 Achievements & Statistics
 
