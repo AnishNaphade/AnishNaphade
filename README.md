@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anishnaphade)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishnaphade@gmail.com)
 [![Google Scholar / Scopus](https://img.shields.io/badge/Publications-Scopus%20Indexed-brightgreen?style=for-the-badge&logo=researchgate)](https://github.com/AnishNaphade)
+![Profile Views](https://komarev.com/ghpvc/?username=AnishNaphade&color=0A66C2&style=for-the-badge)
 
 <p align="center">
   <b>B.Tech in Artificial Intelligence & Data Science</b> • Vishwakarma Institute of Technology, Pune<br>
@@ -69,16 +70,16 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnishNaphade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnishNaphade&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnishNaphade&theme=github_dark" alt="GitHub Profile Details" />
 
-<br/><br/>
+<br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnishNaphade&theme=tokyo-night&hide_border=true)](https://github.com/AnishNaphade)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnishNaphade&theme=github_dark" height="180" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnishNaphade&theme=github_dark" height="180" alt="GitHub Stats" />
 
 </div>
 
